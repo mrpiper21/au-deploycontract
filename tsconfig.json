@@ -10,7 +10,7 @@
     "resolveJsonModule": true
   },
   "include": [
-    "hardhat.config.cts",
+    "hardhat.config.cjs",
     "scripts",
     "test",
     "typechain-types",
